@@ -1,5 +1,8 @@
 Hi 👋 My name is Kirill
 =======================
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400"/>
+</div>
 
 Learn crypto, web3 and blockchain technology
 --------------------------------------------
