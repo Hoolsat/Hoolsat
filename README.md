@@ -7,7 +7,7 @@ Hi 👋 My name is Kirill
 Learn crypto, web3 and blockchain technology
 --------------------------------------------
 
-* 🌍  I'm based in Belarus
+* 🌍  I'm based in B
 * ✉️  You can contact me at [hoolsat@gmail.com](mailto:hoolsat@gmail.com)
 
 <a href="https://www.twitter.com/Hoolsat" target="_blank" rel="noreferrer"><img
